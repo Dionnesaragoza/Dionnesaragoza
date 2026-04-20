@@ -8,7 +8,7 @@ Dionnesaragoza/Dionnesaragoza is a ✨ special ✨ repository because its `READM
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hi, I’m Dionne👋🏽</title>
+    <title>Hi, I’m Dionne</title>
 </head>
 <body>
     <h1>Hello World!</h1>
