@@ -1,22 +1,26 @@
-<h1>Hi, I'm Dionne 👋</h1>
+<!DOCTYPE html>
+<html>
+<head><style>
+  body {
+    background-color: #282c34; /* Donkere achtergrond */
+    color: white;              /* Witte tekst */
+    font-family: sans-serif;   /* Modern lettertype */
+    text-align: center;        /* Alles in het midden */
+  }
+</style>
 
+    <title>Dionne's Pagina</title>
+</head>
+<body>
+    <h1>Welkom op mijn website!</h1>
+    <p>Ik ben Dionne en ik leer HTML.</p>
+    <p>🥎 Softball & 💻 Coding</p>
+    <h3>Mijn Hobby's:</h3>
 <ul>
-  <li>🥎 Softball</li>
-  <li>💻 Coding is Life!</li>
+    <li>Softball 🥎</li>
+    <li>Piano spelen 🎹</li>
+    <li>Coderen 💻</li>
 </ul>
 
-<hr>
-
-<h3>My First Project</h3>
-<p>This is my first paragraph on the web. I'm learning how to structure content using HTML!</p>
-<h1>Hi, I'm Dionne 👋</h1>
-
-<ul>
-  <li>🥎 Softball</li>
-  <li>💻 Coding is Life!</li>
-</ul>
-
-<hr>
-
-<h3>My First Project</h3>
-<p>This is my first paragraph on the web. I'm learning how to structure content using HTML!</p>
+</body>
+</html>
