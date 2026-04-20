@@ -2,7 +2,6 @@
 <html>
 <head>
 
-    <title>Dionne's Pagina</title>
 </head>
 <body>
     <h1>Welkom op mijn website!</h1>
