@@ -1,18 +1,22 @@
-<html>- Hi, I’m Dionne👋🏽<html\>
+<h1>Hi, I'm Dionne 👋</h1>
 
-- 🥎 Softbal and 💻 Coding is Life!
+<ul>
+  <li>🥎 Softball</li>
+  <li>💻 Coding is Life!</li>
+</ul>
 
-<!---
-Dionnesaragoza/Dionnesaragoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Page</title>
-</head>
-<body>
-    <h1>Hello World!</h1>
-    <p>This is my first paragraph on the web.</p>
-</body>
-</html>
+<hr>
 
+<h3>My First Project</h3>
+<p>This is my first paragraph on the web. I'm learning how to structure content using HTML!</p>
+<h1>Hi, I'm Dionne 👋</h1>
+
+<ul>
+  <li>🥎 Softball</li>
+  <li>💻 Coding is Life!</li>
+</ul>
+
+<hr>
+
+<h3>My First Project</h3>
+<p>This is my first paragraph on the web. I'm learning how to structure content using HTML!</p>
