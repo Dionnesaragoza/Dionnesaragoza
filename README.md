@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><style>
-  body {
-    background-color: #282c34; /* Donkere achtergrond */
-    color: white;              /* Witte tekst */
-    font-family: sans-serif;   /* Modern lettertype */
-    text-align: center;        /* Alles in het midden */
-  }
-</style>
+<head>
 
     <title>Dionne's Pagina</title>
 </head>
